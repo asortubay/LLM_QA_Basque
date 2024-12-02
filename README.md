@@ -4,6 +4,7 @@ This project aims to explore and develop a question-answering system for the Bas
 
 ## Table of Contents
 - [Introduction](#introduction)
+- [Example Predictions](#example-predictions-what-is-the-objective-of-this-project)
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
@@ -92,7 +93,7 @@ This notebook will guide you through the process of training, testing, and evalu
 > Note: They are not included in the repository but are available at the original sources. The EuSQuAD dataset is preprocessed using the eusquad_v1.0/convert_json.py script.
 - **results/**: Saved models and checkpoints.
 > Note: The models are not included in the repository due to their size, but can be shared upon request.
-- **custom_scripts.py/**: main training and evaluation scripts.
+- **custom_scripts.py**: Main training and evaluation scripts.
 - **evaluate-v2.0.py**: Official Evaluation script for the SQuAD 2.0 dataset.
 
 > Note: Any directory containing the word "checkpoint" should be ignored.
