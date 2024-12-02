@@ -2,6 +2,9 @@
 
 This project aims to explore and develop a question-answering system for the Basque language using a large language model (LLM). The notebook demonstrates how to apply state-of-the-art language models to build an effective QA system, specifically tailored for a less commonly studied language like Basque.
 
+You can view the notebook as an interactive HTML page here:  
+[LLM QA on Basque - HTML Version](https://asortubay.github.io/LLM_QA_Basque/LLM_QA_on_Basque.html)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Example Predictions](#example-predictions-what-is-the-objective-of-this-project)
