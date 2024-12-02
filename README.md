@@ -15,7 +15,7 @@ This project aims to explore and develop a question-answering system for the Bas
 
 The Basque language is unique, with a limited number of resources compared to more widespread languages. This project provides a baseline for creating a question-answering system in Basque by leveraging existing LLMs, NLP techniques, and datasets to bridge the gap in linguistic technology for underrepresented languages.
 
-![Different Approaches](figures/different_model_finetuning.PNG)
+![Different Approaches](./figures/different_model_finetuning.PNG)
 
 ## Example predictions: What is the objective of this project?
 The QA system is demonstrated with examples in both English and Basque:
