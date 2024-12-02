@@ -10,3 +10,7 @@ eusquad_v1.0/*
 
 # Allow training/loss curves files
 !**/best_model/**/train_loss_curve*
+
+filtered_predictions.json
+filtered_truth.json
+/__pycache__
