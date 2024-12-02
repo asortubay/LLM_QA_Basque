@@ -1,0 +1,9 @@
+**/*checkpoint*/
+/eusquad_v1.0
+/squad2.0
+
+# Ignore all files in best_model folders
+**/best_model/**
+
+# Allow training/loss curves files
+!**/best_model/**/train_loss_curve*
