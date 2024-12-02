@@ -5,6 +5,9 @@ This project aims to explore and develop a question-answering system for the Bas
 You can view the notebook as an interactive HTML page here:  
 [LLM QA on Basque - HTML Version](https://asortubay.github.io/LLM_QA_Basque/LLM_QA_on_Basque.html)
 
+And a presentation on the contents here:
+[LLM QA on Basque - Presentation PPTX](https://github.com/asortubay/LLM_QA_Basque/blob/gh-pages/LLM_QA_on_Basque.pptx)
+
 ## Table of Contents
 - [Introduction](#introduction)
 - [Example Predictions](#example-predictions-what-is-the-objective-of-this-project)
